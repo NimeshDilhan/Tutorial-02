@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">InstantProj</string>
+
+    <string name="number1">Number 1</string>
+    <string name="number2">Number 2</string>
+    <string name="ok">Ok</string>
+    <string name="myapplication">My Application</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="mutiply">*</string>
+    <string name="devide">/</string>
+</resources>
